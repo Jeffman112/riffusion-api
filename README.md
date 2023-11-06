@@ -6,7 +6,7 @@ The Riffusion API provides a convenient way to generate music with lyrics using 
 To use this package, you'll need to install it and its dependencies. You can do this with pip:
 
 ```bash
-pip install riffusion
+pip install riffusion-api
 ```
 
 ## Usage
